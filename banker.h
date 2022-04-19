@@ -1,0 +1,1 @@
+/* declarations related to banker's algorithm */
